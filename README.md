@@ -59,7 +59,7 @@ Insert gif or link to demo
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/Shubham-157/tnrcfoodcort.github.io.git
 ```
 
 Go to the project directory
