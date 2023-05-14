@@ -2,7 +2,9 @@
   "name": "food-court-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://shubham-157.github.io/tnrcfoodcort.github.io/",
   "dependencies": {
+    "gh-pages": "5.0.0",
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@mui/icons-material": "^5.11.11",
@@ -21,6 +23,8 @@
     "react-scripts": "5.0.1",
     "redux": "^4.2.1",
     "web-vitals": "^2.1.4"
+    "predeploy ": "npm run build",
+    "deploy" : "gh-pages -d build"
   },
   "scripts": {
     "start": "react-scripts start",
