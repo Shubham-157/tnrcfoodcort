@@ -87,7 +87,7 @@ Start the server
   and change
 
   spring.datasource.username=root
-  spring.datasource.password=Shubham@2210
+  spring.datasource.password=********
 
   to your DB username And password.
  
